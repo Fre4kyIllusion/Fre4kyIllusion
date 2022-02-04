@@ -1,0 +1,4 @@
+- Hi, I’m @Fre4kyIllusion
+- I’m interested in game development
+- I’m currently learning c# and unity
+- How to reach me: Fre4ky#5005
