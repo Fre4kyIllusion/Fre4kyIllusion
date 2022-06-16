@@ -1,4 +1,4 @@
-- Hi, I’m @Fre4kyIllusion
-- I’m interested in game development
-- I’m currently learning c# and unity
-- How to reach me: Fre4ky#5005
+- Hi, I’m @Aviare
+- I’m interested in Game Development, Computer Vision and Robotics
+- I’m currently learning Hikari/Lightbulb, Python, C# and Unity
+- How to reach me: Fre4ky#5005 (Discord)
