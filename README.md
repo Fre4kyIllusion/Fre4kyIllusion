@@ -1,4 +1,4 @@
 - Hi, I’m @Aviare
 - I’m interested in Game Development, Computer Vision and Robotics
 - I’m currently learning Hikari/Lightbulb, Python, C# and Unity
-- How to reach me: Fre4ky#5005 (Discord)
+- How to reach me: Freaky#5005 (Discord)
